@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(117, 133, 37);
+}
+h1 {
+    font-size: 4em;
+    color: rgb(238, 238, 241);
+    
+}
+h2 {
+    font-size: 2em;
+    color: brown;
+    font-weight: bold;
+}
+.cabecera {
+    height: 220px;
+    background-color: rgb(27, 27, 102);
+    color: white;
+}
